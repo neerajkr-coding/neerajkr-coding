@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac53b7ed-0fb7-4687-a7be-c56f14bbc087" alt="Image" style="max-width: 100%; height: auto;">
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=008000&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+My+GitHub+Profile!+🚀;Writing+APIs+by+Day+💻;Debugging+by+Night+🌙;The+Journey+Continues!+🔥" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=008000&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub+Profile!+🚀;Writing+APIs+by+Day+💻;Debugging+by+Night+🌙;The+Journey+Continues!+🔥" alt="Typing SVG">
 </p>
-
 <hr>
-
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -20,7 +17,10 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img s
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white" alt="Lightroom">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 
 # 📊 GitHub Stats:
