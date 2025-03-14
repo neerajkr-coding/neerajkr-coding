@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac53b7ed-0fb7-4687-a7be-c56f14bbc087" alt="Image" style="max-width: 100%; height: auto;">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=008000&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub+Profile!+🚀;Writing+APIs+by+Day+💻;Debugging+by+Night+🌙;The+Journey+Continues!+🔥" alt="Typing SVG">
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=008000&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+My+GitHub+Profile!+🚀;Writing+APIs+by+Day+💻;Debugging+by+Night+🌙;The+Journey+Continues!+🔥" alt="Typing SVG">
 </p>
 <hr>
 <p align="center">
